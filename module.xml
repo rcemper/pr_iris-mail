@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="iris-mail.ZPM">
+    <Module>
+      <Name>iris-mail</Name>
+      <Version>1.0.1</Version>
+      <Description>iris-mail</Description>
+      <Packaging>module</Packaging>
+      <SourcesRoot>src</SourcesRoot>
+      <Resource Name="Mail.inc"/>
+      <Resource Name="dc.iris.PKG"/>
+      <FileCopy Name="python/" Target="${mgrdir}python/"/>
+    </Module>
+  </Document>
+</Export>
